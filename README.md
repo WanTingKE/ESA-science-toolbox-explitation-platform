@@ -13,7 +13,5 @@ https://scihub.copernicus.eu/dhus/#/home
 ![image](https://user-images.githubusercontent.com/45618275/50389079-e3675b80-075f-11e9-816e-3eb294a693a5.png)
 
 
-![image](https://www.youtube.com/watch?v=-l7MM9yoxII/0.jpg)
-
-(https://www.youtube.com/watch?v=-l7MM9yoxII)
+https://www.youtube.com/watch?v=-l7MM9yoxII
 
